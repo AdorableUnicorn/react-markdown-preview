@@ -26,7 +26,7 @@ To use this Markdown previewer, simply enter your Markdown content in the text e
 
 ## Technologies Used
 
-- ReactL
+- React
 - CSS
 - Markdown rendering library (e.g., marked.js)
 
