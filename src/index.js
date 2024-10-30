@@ -6,7 +6,7 @@ import { BrowserRouter } from "react-router-dom";
 const root = createRoot(document.getElementById("root"));
 
 root.render(
-  <BrowserRouter basename="">
+  <BrowserRouter basename="/react-markdown-preview">
     <Markdown />
   </BrowserRouter>
 );
